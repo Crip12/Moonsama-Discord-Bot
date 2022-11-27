@@ -1,0 +1,9 @@
+sama: 0
+mobidium: 0
+blood_crystals: 0
+dna: 0
+stone: 0
+wood: 0
+iron: 0
+gold: 0
+fish_specimen: 0
