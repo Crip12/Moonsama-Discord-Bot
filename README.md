@@ -21,6 +21,7 @@ To update the link with newer game version just change the date in the link.
 Icons below upload via discord server settings -> Emoji -> upload
 
 [icons.zip](https://github.com/JimBob0121/Moonsama-Discord-Bot/files/10139122/icons.zip)
+![image](https://user-images.githubusercontent.com/23295859/205243525-29593eda-a361-47f4-bffa-27fe8c1d19c8.png)
 
 
 
