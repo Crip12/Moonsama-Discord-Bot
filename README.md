@@ -27,8 +27,8 @@ Icons below upload via discord server settings -> Emoji -> upload
 ![res-bloodCrystal](https://user-images.githubusercontent.com/23295859/205242578-ea0eed34-1ab0-4f36-9a04-c65d92c5c390.png)
 ![res-dna](https://user-images.githubusercontent.com/23295859/205242594-903ee5c9-5ff8-49d9-973c-a860ba22c2e0.png)
 ![res-mobidium](https://user-images.githubusercontent.com/23295859/205242609-af49bec9-c00b-4313-b02b-dda945169991.png | width=20)
-![ST](https://user-images.githubusercontent.com/23295859/205242619-6d57c3da-9fff-483d-a155-0ccf4a488adf.png | width=20)
-![WD](https://user-images.githubusercontent.com/23295859/205242627-992d7413-4090-4ded-9db6-c66619aad23a.png | width=20)
+![ST](https://user-images.githubusercontent.com/23295859/205242619-6d57c3da-9fff-483d-a155-0ccf4a488adf.png)
+![WD](https://user-images.githubusercontent.com/23295859/205242627-992d7413-4090-4ded-9db6-c66619aad23a.png =100x100)
 
 
 Will keep the bot updated for newer resources etc
