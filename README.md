@@ -12,3 +12,6 @@ Command
 Plan to fix a bunch of stuff like no username.
 
 + live prices from market once live
+
+
+Need help setting it up msg me on discord -> Merk#7526
