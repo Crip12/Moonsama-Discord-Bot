@@ -1,6 +1,8 @@
 # Moonsama-Discord-Bot
 https://moonsama.com 
 
+https://github.com/moonsama/dev-resources
+
 Command
 
 =earned Username
