@@ -21,7 +21,7 @@ with open('config.txt', 'r') as c:
         config.append(float(con[1]))
 
 
-URL = 'https://mcapi.moonsama.com/game/minecraft-carnage-2022-11-27/carnage-stats/result/leaderboard?player='
+URL = 'https://mcapi.moonsama.com/game/minecraft-carnage-2022-12-04/carnage-stats/result/leaderboard?player='
 
 
 @bot.command()
