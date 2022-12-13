@@ -21,7 +21,7 @@ with open('config.txt', 'r') as c:
         config.append(float(con[1]))
 
 
-URL = 'https://mcapi.moonsama.com/game/minecraft-carnage-2022-12-04/carnage-stats/result/leaderboard?player='
+URL = 'https://mcapi.moonsama.com/game/minecraft-carnage-2022-12-11/carnage-stats/result/leaderboard?player='
 
 
 @bot.command()
@@ -83,7 +83,7 @@ async def earned(ctx, contents: str):
 
     msg = msg + "Total Earned: $" + str(round(total_earned, 2))
     embed = discord.Embed(title=contents+"'s stats", description=msg, color=0x87CEEB)
-    embed.set_footer(text="minecraft-carnage-20.11.2022\n", icon_url="https://i.postimg.cc/hvJMBXtk/moonsama-moonsama-nft.gif")
+    embed.set_footer(text="minecraft-carnage-11.12.2022\n", icon_url="https://i.postimg.cc/hvJMBXtk/moonsama-moonsama-nft.gif")
     await ctx.channel.send(embed=embed)
 
 bot.run(token)
